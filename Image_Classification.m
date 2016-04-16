@@ -1,4 +1,4 @@
-//  Matlab script for image classification:
+%  Matlab script for image classification:
 
 clear;
 close all;
