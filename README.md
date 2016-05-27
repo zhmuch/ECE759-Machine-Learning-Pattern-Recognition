@@ -3,3 +3,5 @@
 PR & ML Course Project
 
 Flood detection, Image Fragmentation.
+
+Bayesian Classifier.
